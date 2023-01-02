@@ -2,7 +2,7 @@
 
 ## Installera en terminal
 
-Vi komemr under kuursen använda terminalen ganska mycket. Jag rekomenderar några olika beroende på operativsystem.
+Vi kommer under kursen använda terminalen ganska mycket. Jag rekomenderar några olika beroende på operativsystem.
 
 ### Windows
 
@@ -34,7 +34,7 @@ Ni hittar det på [python.org](https://www.python.org/downloads/). Ni kan ladda 
 
 ## GIT
 
-Jag komemr under kursen att använda GIT ganska mycket. Det är egentligen inget krav för att klara kursen, men det kommer vara otroligt mycket lättare för både mig och er om ni installerar det. Jag kommer bara använda det på ett väldigt grundläggande sätt så det ska inte vara några problem att lära sig.
+Jag kommer under kursen att använda GIT ganska mycket. Det är egentligen inget krav för att klara kursen, men det kommer vara otroligt mycket lättare för både mig och er om ni installerar det. Jag kommer bara använda det på ett väldigt grundläggande sätt så det ska inte vara några problem att lära sig.
 
 Ni hittar det på [git-scm.com](https://git-scm.com/downloads). Ni kan ladda ner den senaste versionen av git. Det är viktigt att ni väljer rätt version.
 
