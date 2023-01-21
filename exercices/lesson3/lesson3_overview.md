@@ -1,7 +1,7 @@
 #Exercises lesson 3#
 All exercises except the challenge are connected.
 
-Exercise 1: calculator step 1
+# Exercise 1: calculator step 1
 create a main function. Make a print that just says, for example, "Calculator" or "calculator". Then call the function when the program is running.
 
 To practice functions, printing to the terminal (other than the input printing) must not take place anywhere else than in the main() function.
