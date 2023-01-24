@@ -19,5 +19,7 @@ def get_input():
 def add(num1, num2):
     return num1 + num2
 
+# By using the line if __name__ == "__main__": at the end of a script, the script can check if it is being run directly 
+# or if it is being imported as a module.
 if __name__ == "__main__":
     main()
